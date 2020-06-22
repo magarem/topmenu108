@@ -1,0 +1,167 @@
+{
+ "logo": {
+    "title": "Rio Zen",
+    "subtitle": "Recanto saudável",
+    "img": "http://pluspng.com/img-png/half-sun-with-rays-png-sun-clip-art-transparent-background-logo-1525.png"
+   },
+  "menu": {
+    "title": "main menu",
+    "subtitle": "",
+    "img": "",
+    "body": "",
+    "list":[
+        {"label": "Cardápio", "target": "http://trsdre"},
+        {"label": "Sobre", "target": "http://trsdre"},
+        {"label": "Contato", "target": "http://trsdre"}
+    ]
+  },
+  "header": {
+        "title": "Rio Zen",
+        "subtitle": "Recanto saudável",
+        "img": "assets/img/mandala_riozen.svg"
+   },
+
+   "portfolio":{
+    "title":"Cardápio",
+    "list":[
+       {
+          "title":"Bijú com guacamole",
+          "img":"https://instagram.fbps1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/97275506_248296816446130_8264539975000714257_n.jpg?_nc_ht=instagram.fbps1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=WOIJo3QbyQ4AX-n6AFE&oh=a0af5474d08a48e41045a65251b0f9bf&oe=5F070223",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt. ",
+          "price":"10,00",
+          "qnt":0
+       },
+       {
+          "title":"Açai, limão e mel",
+          "img":"https://www.instagram.com/p/B-XJH18FvXs/media/?size=l",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt. ",
+          "price":"20,00",
+          "qnt":0
+       },
+       {
+          "title":"Limonada suiça",
+          "img":"https://www.instagram.com/p/B_AqQU_FNTo/media/?size=l",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt. ",
+          "price":"30,00",
+          "qnt":0
+       },
+       {
+          "title":"Picadinho vegano de abóbora com coco",
+          "img":"https://www.instagram.com/p/B_DzKOrlG08/media/?size=l",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
+          "price":"40,00",
+          "qnt":0
+       },
+       {
+          "title":"Suco verde com folha de abóbora",
+          "img":"https://www.instagram.com/p/B_AJdi5FsIf/media/?size=l",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
+          "price":"50,00",
+          "qnt":0
+       },
+       {
+          "title":"Pão de queijo vegano",
+          "img":"https://www.instagram.com/p/CAY04MqFMI7/media/?size=l",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit; Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
+          "price":"60,00",
+          "qnt":0
+       }
+    ]
+   },
+   "portfolio2":{
+    "title":"comidas",
+    "list":[
+       {
+          "title":"Bijúlança com guacamole",
+          "img":"https://www.instagram.com/p/B-XJH18FvXs/media/?size=l",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt. ",
+          "price":"1"
+       },
+       {
+          "title":"Açai, limão e mel",
+          "img":"https://instagram.fbps1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/97275506_248296816446130_8264539975000714257_n.jpg?_nc_ht=instagram.fbps1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=WOIJo3QbyQ4AX-n6AFE&oh=a0af5474d08a48e41045a65251b0f9bf&oe=5F070223",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt. ",
+          "price":"2"
+       },
+       {
+          "title":"Limonada suiça",
+          "img":"https://www.instagram.com/p/B_AqQU_FNTo/media/?size=l",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt. ",
+          "price":"1"
+       },
+       {
+          "title":"Picadinho vegano de abóbora com coco",
+          "img":"https://www.instagram.com/p/B_DzKOrlG08/media/?size=l",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
+          "price":"1"
+       },
+       {
+          "title":"Suco verde com folha de abóbora",
+          "img":"https://www.instagram.com/p/B_AJdi5FsIf/media/?size=l",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
+          "price":"1"
+       },
+       {
+          "title":"Pão de queijo vegano",
+          "img":"https://www.instagram.com/p/CAY04MqFMI7/media/?size=l",
+          "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit; Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
+          "price":"1"
+       }
+    ]
+   },
+
+   "slide":{
+        "title": "carrosel",
+        "list": [
+            "https://images.pexels.com/photos/533858/pexels-photo-533858.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+            "https://visualhunt.com/photos/6/sunset-landscape-sky-colorful-water-everglades-2.jpg?s=l",
+            "https://visualhunt.com/photos/2/boat-on-lake-at-sunrise.jpg?s=l"
+        ]
+   },
+   "about": {
+        "img": "http://www.harekrsna.de/radha/radha_large2.jpg",
+        "title": "Radhe Krshna)",
+        "subtitle": "teste",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+   },
+   "about2": {
+        "img": "https://i.pinimg.com/564x/7e/e7/da/7ee7daeee136c2a3389206b39c3072c3.jpg",
+        "title": "Krsna & Radhe Krshna",
+        "subtitle": "super!",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra accumsan dolor gravida fringilla. Praesent dictum arcu quis risus imperdiet maximus. Cras at egestas sem. Proin congue quam ex, non interdum orci eleifend et. Nulla massa mi, aliquet quis massa tincidunt, rhoncus congue mauris. Etiam laoreet justo sed posuere ullamcorper. Sed malesuada diam molestie augue tincidunt rhoncus. Quisque scelerisque, nisl sit amet ultricies malesuada, nulla sem scelerisque lectus, vel ultricies est tellus quis erat.Quisque eu erat nulla. Integer porttitor rutrum mi, sed maximus risus ullamcorper et. Praesent turpis erat, dictum ut sapien vitae, dignissim tincidunt metus. In hendrerit magna in pulvinar tempor. Quisque lobortis fringilla euismod. Fusce viverra ac est quis efficitur. In tempus lacus nec nisl tincidunt, in dictum velit sollicitudin. Nam non purus venenatis, accumsan urna eu, mollis enim. Aliquam sit amet enim a est congue laoreet a varius ante. Quisque euismod elementum nunc, ut consectetur massa rhoncus sed. Sed at ante a turpis pretium gravida. Suspendisse gravida in orci sit amet ultricies. Aenean tincidunt nisl eu elit venenatis, sed fringilla erat eleifend. Aenean finibus nisl vitae nisl efficitur feugiat."
+   },
+   "formation": {
+        "list": [
+            {
+                "title": "segundo grau",
+                "desc": "Colégio Anglo Americano"
+            },
+            {
+                "title": "grau superior",
+                "desc": "Ambientes internet Estacio de Sá"
+            }
+        ]
+    },
+    "contact":{
+        "title":"Entre em contato",
+        "list":[
+            {"name": "nome", "type": "string", "value": ""},
+            {"name": "email", "type": "string", "value": ""},
+            {"name": "phone", "type": "string", "value": ""},
+            {"name": "message", "type": "string", "value": ""},
+            {"name": "enviar", "type": "submit", "value": ""}
+        ]
+    },
+    "footer":{
+        "title": "footer",
+        "list":[
+            {"title": "sobre nós", "body": "teste1"},
+            {"title": "Mídias", "body": "teste2"},
+            {"title": "Local", "body": "teste1"}
+        ]
+    }, 
+    "copyright":{
+        "title": "Magaweb",
+        "link": "magaweb.com.br"
+    }   
+}
