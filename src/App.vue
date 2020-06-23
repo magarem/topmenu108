@@ -10,11 +10,12 @@
     <!-- <freelancer_footer data=footer /> -->
     
     
-    <div class="fixed-bottom">
+    <div v-if="sortedCart.length > 0" class="fixed-bottom">
         <!-- <freelancer_copyright source=copyright /> -->
         <!-- Copyright Section-->
       <section  class="copyright py-4 text-center text-white">
           <div>
+            {{ sortedCart.map(function(t){ return t.title + " : " + t.qnt}) }}
               <b-button class="mt-0"  v-b-modal.modal-lg  variant="primary">Continuar</b-button>
               <b-modal id="modal-lg" centered size="lg" title="" hide-footer body-class="pt-0">
                  
@@ -138,7 +139,7 @@
                   </div><br><br>
                   <h2>Confirme o pedido clicando no botão abaixo</h2>
                   <div class="col text-center"><Br/>
-                    <b-button @click="sendOrder(sortedCart)" class="mt-3 btn-success" block >Enviar pedido</b-button>
+                    <b-button @click="sendOrder(cartFiltred)" class="mt-3 btn-success" block >Enviar pedido</b-button>
                     
                     <b-button class="mt-3" block @click="$bvModal.hide('modal-lg')">Voltar</b-button>
                   </div>
@@ -227,6 +228,9 @@
       }
     },
     computed: {
+        cartFiltred(){
+          return this.cart.filter(function(p){return p.qnt}).map(function(t){ return t.title + " : " + t.qnt})
+        },
         sortedCart() {
             // Return a copy of the sorted array
             // console.log(this.cart)
