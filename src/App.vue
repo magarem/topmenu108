@@ -15,7 +15,6 @@
         <!-- Copyright Section-->
       <section  class="copyright py-4 text-center text-white">
           <div>
-            {{ sortedCart.map(function(t){ return t.title + " : " + t.qnt}) }}
               <b-button class="mt-0"  v-b-modal.modal-lg  variant="primary">Continuar</b-button>
               <b-modal id="modal-lg" centered size="lg" title="" hide-footer body-class="pt-0">
                  
